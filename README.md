@@ -1,2 +1,3 @@
 # segoe-ui-emoji
-segoe-ui-emoji
+
+Collected segoe ui emoji fonts
